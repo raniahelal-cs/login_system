@@ -4,7 +4,7 @@ A simple login system built using Python
 Features:
 1. User registration
 2. User login
-3- Change password
+3. Change password
 4. SQLite database support
 
 Files:
